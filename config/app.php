@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://ce.cloudschoolbd.com'),
+    'url' => env('APP_URL', 'https://cloudschool1.herokuapp.com'),
 
     /*
     |--------------------------------------------------------------------------
